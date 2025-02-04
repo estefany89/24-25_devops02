@@ -1,7 +1,7 @@
 h1 {
-    color: blue;
+    color: red;
     text-align: right;
-    border-bottom: 4px double #000;
+    border-bottom: 4px double #d68d8d;
 }
 div {
     text-align: center;
